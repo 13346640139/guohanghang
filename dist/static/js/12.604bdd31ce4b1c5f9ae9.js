@@ -1,0 +1,1 @@
+webpackJsonp([12],{"9oNB":function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{staticClass:"box"})},staticRenderFns:[]};var s=n("C7Lr")({},r,!1,function(e){n("JUV1")},null,null);t.default=s.exports},JUV1:function(e,t){}});
