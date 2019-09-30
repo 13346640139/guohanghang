@@ -1,0 +1,30 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/shop/shop"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#f00",
+    "navigationBarTitleText": "我的小程序",
+    "navigationBarTextStyle": "black",
+    "backgroundColorTop":"#ccc",
+    "enablePullDownRefresh":true,
+    "backgroundColor":"#ff0000"
+  },
+  "tabBar":{
+    "borderStyle":"black",
+    "list":[
+      {
+        "pagePath": "pages/index/index",
+        "text":"首页"
+      },
+      {
+        "pagePath": "pages/shop/shop",
+        "text": "我的"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}
